@@ -1,8 +1,10 @@
+import { Box, Text } from '@chakra-ui/react';
+
 const Home = () => {
   return (
-    <div>
-      <h1>Home</h1>
-    </div>
+    <Box bg="red.400">
+      <Text fontSize="6xl">Home</Text>
+    </Box>
   );
 };
 
