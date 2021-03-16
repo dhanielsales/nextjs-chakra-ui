@@ -1,4 +1,4 @@
-import { ColorModeProvider, CSSReset } from '@chakra-ui/core';
+import { ColorModeProvider, CSSReset } from '@chakra-ui/react';
 import { ChakraProvider } from '@chakra-ui/react';
 import React from 'react';
 
